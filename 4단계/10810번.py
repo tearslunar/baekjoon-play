@@ -9,4 +9,3 @@ for l in range(m):
 
 for x in range(n):
   print(basket[x], end=" ")
-  라ㅓㅁㄴ
