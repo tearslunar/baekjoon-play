@@ -23,4 +23,3 @@ for _ in range(28):
 
 print(min(a))
 print(max(a))
-#.
