@@ -1,5 +1,2 @@
-list2 = [ "ABC ", "DEF"]
-string = input()
-
-if "ABC" in string:
-    print("true")
+a = "abcdef"
+print(min(a))
