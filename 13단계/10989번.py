@@ -4,7 +4,7 @@ n = int(sys.stdin.readline())
 count = [0] * 10001
 
 for _ in range(n):
-    count[int(input())] += 1
+    count[int(sys.stdin.readline())] += 1
 
 for i in range(len(count)):
     if count[i] !=0:
